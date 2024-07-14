@@ -1,0 +1,206 @@
+                                 Apache License
+                           Verzió 2.0, Január 2004
+                        http://www.apache.org/licenses/
+Apache licenc
+ 2.0 verzió,
+
+ HASZNÁLATI FELTÉTELEK, SZOKOROLÁS ÉS FORGALMAZÁS
+
+ 1. Meghatározások.
+
+ „Licenc”: a felhasználásra, sokszorosításra vonatkozó feltételek és feltételek,
+ és terjesztése a jelen dokumentum 1–9. szakaszában meghatározottak szerint.
+
+ A „licencbeadó” a szerzői jog tulajdonosát vagy általa felhatalmazott jogi személyt jelenti
+ a licencet kiadó szerzői jog tulajdonosa.
+
+ "Jogi személy": az eljáró személy és minden egyesülése
+ más olyan entitások, amelyek irányítanak, ellenőrzés alatt állnak vagy közösek
+ az entitással irányítani. E meghatározás alkalmazásában
+ „irányítás”: (i) a közvetlen vagy közvetett hatalom, amely a
+ az ilyen jogalany irányítása vagy irányítása, akár szerződés alapján, akár
+ ellenkező esetben, vagy (ii) a tulajdonjog legalább ötven százalékában (50%)
+ forgalomban lévő részvények, vagy (iii) az ilyen jogalany tényleges tulajdonosai.
+
+ "Ön" (vagy "Ön") egy magánszemély vagy jogi személy
+ a jelen Licenc által biztosított engedélyek gyakorlása.
+
+ "Forrás" forma: a módosítások elvégzésének előnyben részesített formája,
+ beleértve, de nem kizárólagosan a szoftver forráskódját, dokumentációját
+ forrás- és konfigurációs fájlokat.
+
+ A "tárgy" forma bármely mechanikus formát jelent
+ Forrás űrlap átalakítása vagy fordítása, beleértve a de
+ nem korlátozódik a lefordított objektumkódra, a generált dokumentációra,
+ és átalakítások más médiatípusokra.
+
+ A „mű” a szerzői alkotást jelenti, akár a Forrásban, akár a
+ A Licenc alapján elérhető objektum űrlap, amint azt a
+ szerzői jogi megjegyzés, amelyet a mű tartalmaz vagy csatol
+ (példa az alábbi függelékben található).
+
+ A „Származékos Művek” bármely alkotást jelentenek, akár Forrásban, akár Objektumban
+ forma, amely a Művön alapul (vagy abból származik), és amelyhez a
+ szerkesztői átdolgozások, megjegyzések, feldolgozások vagy egyéb módosítások
+ összességében eredeti szerzői alkotást képviselnek. A célokért
+ pontja értelmében a Származékos Művek nem tartoznak a megmaradt művek közé
+ elválasztható, vagy csupán összekapcsolható (vagy név szerint köthető)
+ a Mű és az abból származó munkák.
+
+ "Hozzájárulás" minden szerzői alkotást jelent, beleértve
+ a Mű eredeti verziója és az esetleges módosítások vagy kiegészítések
+ az adott Műre vagy annak Származékos Műveire, vagyis szándékosan
+ benyújtotta a Licenctulajdonosnak, hogy a szerzői jog tulajdonosa belefoglalja a Műbe
+ vagy a nevében benyújtásra jogosult magánszemély vagy jogi személy
+ a szerzői jog tulajdonosa. E meghatározás alkalmazásában a „benyújtva”
+ a küldött elektronikus, szóbeli vagy írásos kommunikáció bármely formáját jelenti
+ a Licencadónak vagy képviselőinek, beleértve, de nem kizárólagosan
+ kommunikáció elektronikus levelezőlistákon, forráskód-vezérlő rendszereken,
+ és kibocsátási nyomkövető rendszereket, amelyeket a(z) a
+ Licencadó a Mű megvitatása és javítása céljából, de
+ kizárva a feltűnően megjelölt vagy más jellegű kommunikációt
+ a szerzői jog tulajdonosa írásban „Nem hozzájárulásként” jelölte meg.
+
+ A „közreműködő” a Licencadót és bármely természetes vagy jogi személyt jelenti
+ akinek nevében a Licencadó Hozzájárulást kapott és
+ később beépült a Műbe.
+
+ 2. Szerzői jog engedélyezése. feltételeinek megfelelően
+ jelen Licenc értelmében minden Közreműködő örökös,
+ világszerte, nem kizárólagos, díjmentes, jogdíjmentes, visszavonhatatlan
+ szerzői jogi engedély a származékos munkák reprodukálására, elkészítésére,
+ nyilvánosan megjeleníteni, nyilvánosan előadni, licencelni és terjeszteni
+ Munka és hasonló származékos művek forrás vagy objektum formában.
+
+ 3. Szabadalmi engedély megadása. feltételeinek megfelelően
+ jelen Licenc értelmében minden Közreműködő örökös,
+ világszerte, nem kizárólagos, díjmentes, jogdíjmentes, visszavonhatatlan
+ (a jelen szakaszban foglaltak kivételével) szabadalmi engedélyt készíteni, elkészíttetni,
+ felhasználni, eladásra ajánlani, eladni, importálni vagy más módon átadni a Műt,
+ ha az ilyen licenc csak azokra a szabadalmi igénypontokra vonatkozik, amelyek engedélyezhetők
+ olyan Közreműködő által, amelyeket szükségszerűen megsértenek
+ Hozzájárulás(ok) önmagukban vagy hozzájárulásaik kombinációjában
+ azzal a Művel, amelyhez az ilyen Hozzájárulás(oka)t benyújtották. Ha te
+ szabadalmi pert indítani bármely szervezet ellen (beleértve a
+ keresztkereset vagy viszontkereset perben) arra hivatkozva, hogy a Mű
+ vagy a Művébe beépített Hozzájárulás közvetlennek minősül
+ vagy hozzájáruló szabadalombitorlás, akkor az esetleges szabadalmi licencek
+ a jelen Licenc alapján az adott Munka számára biztosított joga megszűnik
+ az ilyen kereset benyújtásának napjától.
+
+ 4. Újraelosztás. Ön sokszorosíthatja és terjesztheti a másolatokat
+ Művek vagy származékos művek bármilyen médiában, akár anélkül, akár anélkül
+
+módosítások, valamint Forrás vagy Objektum formában, feltéve, hogy Ön
+ megfelel az alábbi feltételeknek:
+
+ (a) Meg kell adnia a Mű bármely más címzettjét, ill
+ Származékos Művek jelen Licenc másolata; és
+
+ (b) A módosított fájlokat jól látható megjegyzésekkel kell ellátnia
+ kijelenti, hogy megváltoztatta a fájlokat; és
+
+ (c) Önnek meg kell őriznie minden Származékos Művet Forrás formájában
+ amelyet Ön terjeszt, minden szerzői jog, szabadalom, védjegy és
+ hozzárendelési megjegyzések a Mű Forrás űrlapjáról,
+ kizárva azokat a megjegyzéseket, amelyek nem vonatkoznak a következő részre
+ a Származékos Művek; és
+
+ (d) Ha a Munka részeként egy „FIGYELMEZTETÉS” szövegfájlt tartalmaz
+ terjesztését, akkor az Ön által terjesztett származékos műveknek kell
+ mellékelje a benne található forrásmegjelölési megjegyzések olvasható másolatát
+ az ilyen NOTICE fájlon belül, kivéve azokat az értesítéseket, amelyek nem
+ a Származékos Művek bármely részére vonatkoznak, legalább az egyikben
+ a következő helyeken: egy terjesztett NOTICE szövegfájlon belül
+ a Származékos Művek részeként; a Forrás űrlapon belül ill
+ dokumentáció, ha a Származékos Művekkel együtt rendelkezésre áll; vagy,
+ a Származékos Művek által generált megjelenítésen belül, ha és
+ ahol általában megjelennek az ilyen harmadik felek értesítései. A tartalom
+ A FIGYELMEZTETÉS fájl csak tájékoztató jellegű, és
+ ne módosítsa a licencet. Hozzáadhatja saját forrását
+ az Ön által terjesztett származékos műveken belüli értesítéseket
+ vagy a Művéből származó ÉRTESÍTÉS szöveg kiegészítéseként, feltéve
+ hogy az ilyen további hozzárendelési megjegyzések nem értelmezhetők
+ mint a Licenc módosítása.
+
+ A módosításaihoz hozzáadhatja saját szerzői jogi nyilatkozatát és
+ további vagy eltérő licencfeltételeket írhat elő
+ az Ön módosításainak felhasználására, reprodukálására vagy terjesztésére, vagy
+ minden ilyen Származtatott Műre, mint egészre, feltéve, hogy Ön használja,
+ a Mű sokszorosítása és terjesztése egyébként megfelel
+ a jelen Licencben foglalt feltételeknek.
+
+ 5. Hozzájárulások benyújtása. Hacsak kifejezetten másként nem jelzi,
+ minden olyan Hozzájárulás, amelyet szándékosan nyújtottak be a Műbe való felvételre
+ az Ön által a Licencbeadónak az alábbi feltételek szerint kell eljárni
+ jelen Licenc további feltételek vagy feltételek nélkül.
+ A fentiek ellenére itt semmi sem lép hatályon kívül vagy módosít
+ az Ön által esetleg megkötött külön licencszerződés feltételeit
+ a Licenctulajdonossal az ilyen Hozzájárulásokkal kapcsolatban.
+
+ 6. Védjegyek. Ez az engedély nem ad engedélyt a kereskedelem használatára
+ a licencadó nevei, védjegyei, szolgáltatási védjegyei vagy terméknevei,
+ kivéve, ha az ésszerű és szokásos használat megköveteli a leírásánál
+ a Mű eredetét és a NOTICE fájl tartalmának reprodukálását.
+
+ 7. A jótállás kizárása. Hacsak a vonatkozó jogszabályok nem írják elő, ill
+ írásban beleegyezett, a Licencadó biztosítja a Művet (és mindegyik
+ A Közreműködő „AHOGY VAN” ALAPJÁN biztosítja hozzájárulásait,
+ BÁRMILYEN GARANCIA VAGY FELTÉTEL NÉLKÜL, akár kifejezett, akár
+ beleértett, beleértve, korlátozás nélkül, bármilyen garanciát vagy feltételt
+ CÍM, NEM JOGSÉRTÉS, ELADHATÓSÁG vagy ALKALMAZÁS
+ KÜLÖNLEGES CÉL. Kizárólag Ön felelős a
+ a Mű felhasználásának vagy újraterjesztésének helyénvalóságáról, és vállalja azt
+ a jelen Licenc szerinti engedélyek Ön általi gyakorlásával kapcsolatos kockázatok.
+
+ 8. A felelősség korlátozása. Semmi esetre és semmilyen jogi elmélet szerint,
+ akár jogsérelem (beleértve a gondatlanságot), szerződés vagy más módon,
+ kivéve, ha az alkalmazandó törvény ezt megköveteli (például szándékos és durva
+ hanyag cselekmények) vagy írásban beleegyezett, bármely Közreműködő az
+ felelősséggel tartozik Önnel szemben a károkért, beleértve a közvetlen, közvetett, különleges,
+ bármilyen jellegű véletlen vagy következményes károk, amelyek a
+ ennek a Licencnek a következménye, vagy a használat megszűnése vagy használatának képtelensége miatt
+ Munka (beleértve, de nem kizárólagosan a cégalap elvesztése miatti károkat,
+ munkabeszüntetés, számítógép meghibásodás vagy hibás működés, vagy bármi és minden
+ egyéb kereskedelmi károk vagy veszteségek), még akkor is, ha az ilyen Közreműködő
+ tájékoztatták az ilyen károk lehetőségéről.
+
+ 9. A garancia vagy a kiegészítő felelősség elfogadása. Újraelosztás közben
+ a Mű vagy az abból származó Művek, Ön választhat, hogy felajánlja,
+ és díjat számít fel a támogatás elfogadásáért, a garanciáért, a kártalanításért,
+ vagy ezzel összeegyeztethető egyéb felelősségi kötelezettségek és/vagy jogok
+ Engedély. Az ilyen kötelezettségek elfogadásával azonban Ön kizárólagosan járhat el
+ az Ön nevében és kizárólagos felelősségére, nem az Ön nevében
+ bármely más Közreműködőtől, és csak akkor, ha Ön beleegyezik a kártalanításba,
+ megvédeni, és minden Közreműködőt mentesíteni minden felelősség alól
+ az ilyen Közreműködőnél felmerült vagy az ellene okokból érvényesített követelések
+ az elfogadásodról
+
+g minden ilyen jótállást vagy további felelősséget.
+
+ A SZERZŐDÉSI FELTÉTELEK VÉGE
+
+ FÜGGELÉK: Az Apache licenc alkalmazása a munkájában.
+
+ Az Apache licenc alkalmazásához csatolja a következőket
+ kazántábla megjegyzés, a mezőket zárójelben "[]"
+ saját azonosító adataival helyettesítve. (Ne tartalmazza
+ a zárójeleket!) A szöveget a megfelelő közé kell tenni
+ megjegyzés szintaxisa a fájlformátumhoz. Javasoljuk továbbá, hogy a
+ A fájl vagy osztály neve és a cél leírása szerepeljen a
+ ugyanaz a "nyomtatott oldal", mint a szerzői jogi megjegyzés a könnyebbség érdekében
+ azonosítás harmadik fél archívumában.
+
+ Copyright [yyyy] [a szerzői jog tulajdonosának neve]
+
+ Licenc az Apache Licenc 2.0-s verziója alatt (a "Licenc");
+ ezt a fájlt csak a Licencnek megfelelően használhatja.
+ A Licenc másolatát a címen szerezheti be
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+ Kivéve, ha a vonatkozó törvény előírja vagy írásban megállapodnak, szoftver
+ a Licenc alapján terjesztett „AHOGY VAN” ALAPON kerül terjesztésre,
+ BÁRMILYEN, akár kifejezett, akár hallgatólagos GARANCIA VAGY FELTÉTEL NÉLKÜL.
+ Tekintse meg a Licencben az adott nyelvi szabályozási engedélyeket és
+ a Licenc szerinti korlátozások.
